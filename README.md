@@ -12,7 +12,7 @@
 
 ![](./colorPicker.png)
 
-2、[ColorSense](https://github.com/omz/ColorSense-for-Xcode) 用的是xcode的插件调用的也是系统取色器，取值是0.135。
+2、[ColorSense](https://github.com/omz/ColorSense-for-Xcode) xcode的插件调用的也是系统取色器，取值是0.135。
 
 ```objc
 // 0.135 
@@ -31,4 +31,9 @@
 具体模拟器上效果图
 ![](./screenshot.png)
 
-最后在效果图上取色，1和2的RGB 为 35，35，35， 3和4的RGB 为 46，46，46
+最后在效果图上取色，1和2的RGB 为 35，35，35， 3和4的RGB 为 46，46，46  
+
+为了取值准确还是手动代码设置吧。。。
+
+
+-以上-
