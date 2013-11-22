@@ -12,7 +12,7 @@
 
 ![](./colorPicker.png)
 
-2、ColorSense 用的是xcode的插件调用的也是系统取色器，取值是0.135。
+2、[ColorSense](https://github.com/omz/ColorSense-for-Xcode) 用的是xcode的插件调用的也是系统取色器，取值是0.135。
 
 ```objc
 // 0.135 
