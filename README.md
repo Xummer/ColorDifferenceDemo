@@ -28,12 +28,23 @@
 [_colorImageView setBackgroundColor:[UIColor colorWithWhite:46.0f/255.0f alpha:1]];
 ```
 
-具体模拟器上效果图
+具体模拟器上效果图(Retina屏的图有点大)
 ![](./screenshot.png)
 
 最后在效果图上取色，1和2的RGB 为 35，35，35， 3和4的RGB 为 46，46，46  
 
 为了取值准确还是手动代码设置吧。。。
 
+在[stackoverflow](http://stackoverflow.com/questions/7488378/weird-colors-in-xcode-interface-builder)找到了解决方法。
+
+取色器点击后取色后默认改为Device RGB
+
+![](./device_color.png)
+
+手动换成 Generic RGB, RGB 就变为  35，35，35 了
+
+![](./gener_color.png)
+
+还得手动改46, 太不方便了。
 
 -以上-

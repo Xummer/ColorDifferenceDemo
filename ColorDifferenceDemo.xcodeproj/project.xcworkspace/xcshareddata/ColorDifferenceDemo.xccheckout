@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>084D4DC8-0039-461B-92C9-C9CC1F3C68FC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ColorDifferenceDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68AD2B62-555F-48CA-8EAC-985A37C490FA</key>
+		<string>ssh://github.com/Xummer/ColorDifferenceDemo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ColorDifferenceDemo.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68AD2B62-555F-48CA-8EAC-985A37C490FA</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/Xummer/ColorDifferenceDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68AD2B62-555F-48CA-8EAC-985A37C490FA</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68AD2B62-555F-48CA-8EAC-985A37C490FA</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ColorDifferenceDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>

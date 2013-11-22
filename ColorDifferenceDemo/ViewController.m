@@ -20,7 +20,7 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
-    [_colorImageView setBackgroundColor:[UIColor colorWithWhite:46.0f/255.0f alpha:1]];
+    [_colorImageView setBackgroundColor:[UIColor colorWithWhite:0.180 alpha:1.000]];
      // 46.0f/255.0f = 0.18039215686274509803
     
     [_colorSenseImageView setBackgroundColor:[UIColor colorWithWhite:0.135 alpha:1.000]];
