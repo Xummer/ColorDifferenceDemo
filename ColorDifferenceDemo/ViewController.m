@@ -9,6 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UIImageView *colorImageView;
+@property (weak, nonatomic) IBOutlet UIImageView *colorSenseImageView;
 
 @end
 
@@ -18,6 +20,10 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    [_colorImageView setBackgroundColor:[UIColor colorWithWhite:46.0f/255.0f alpha:1]];
+     // 46.0f/255.0f = 0.18039215686274509803
+    
+    [_colorSenseImageView setBackgroundColor:[UIColor colorWithWhite:0.135 alpha:1.000]];
 }
 
 - (void)didReceiveMemoryWarning
